@@ -1,0 +1,13 @@
+{
+  "name": "ms-learn-playwright",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/AndrewUsher/ms-learn-playwright.git",
+  "author": "AndrewUsher <andrewusher00@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@playwright/test": "^1.47.2",
+    "@types/node": "^22.6.1"
+  },
+  "scripts": {}
+}
